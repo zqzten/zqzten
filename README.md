@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 <div>
-  <img align="left" width="490px" src="https://github-readme-stats.vercel.app/api?username=zqzten&show_icons=true&count_private=true&include_all_commits=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zqzten&show_icons=true&count_private=true&include_all_commits=true&theme=solarized-dark">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=zqzten&show_icons=true&count_private=true&include_all_commits=true">
+  </picture>
   <div align="right">
     <details align="center">
       <summary>
